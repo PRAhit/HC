@@ -8,6 +8,7 @@ AP_SimpleWebServer is a simple web server to manage a LED with AP features. The 
 **Initialize the Parameters as below:**
  
 **ssid:** the SSID (Service Set Identifier) of the created Access Point.
+
 **passphrase:** optional, the WPA password of the created Access Point.
  
 **Note:** The ssid and passphrase “Must be 8 or more characters.” Otherwise the serial monitor will display an error “Creating an Access Point failed”. 
